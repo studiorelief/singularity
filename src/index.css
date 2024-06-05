@@ -1,0 +1,56 @@
+/*
+! Side Buttons
+*/
+
+.hero_number .hero_number-background {
+    opacity: 0
+}
+
+.hero_number:hover .hero_number-text {
+    opacity: 0.5;
+}
+
+.hero_number:hover .hero_number-background {
+    opacity: 0.1;
+}
+
+.hero_number .hero_number-background.is-active {
+    opacity: 1;
+}
+
+/*
+! button controls
+*/
+
+
+.hero-canvas_c-button:hover {
+    opacity: 0.5;
+}
+
+.hero-canvas_c-button.is-active {
+    opacity: 1;
+}
+
+/*
+! Side Move
+*/
+
+.hero_move-reset-w:hover .hero_move-background {
+    opacity: 0.05;
+}
+
+.hero_move-top-w:hover .hero_move-background {
+    opacity: 0.05;
+}
+
+.hero_move-left-w:hover .hero_move-background {
+    opacity: 0.05;
+}
+
+.hero_move-right-w:hover .hero_move-background {
+    opacity: 0.05;
+}
+
+.hero_move-bottom-w:hover .hero_move-background {
+    opacity: 0.05;
+}

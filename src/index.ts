@@ -1,9 +1,8 @@
 import './index.css';
 
-import { greetUser } from '$utils/greet';
+import { buttonActive } from '$utils/tricks';
 
 window.Webflow ||= [];
 window.Webflow.push(() => {
-  const name = 'John Doe';
-  greetUser(name);
+  buttonActive();
 });
