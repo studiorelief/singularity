@@ -1,8 +1,9 @@
 import './index.css';
 
-import { buttonActive } from '$utils/tricks';
+import { buttonActive, controlsActive } from '$utils/tricks';
 
 window.Webflow ||= [];
 window.Webflow.push(() => {
   buttonActive();
+  controlsActive();
 });
