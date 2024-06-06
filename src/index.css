@@ -3,39 +3,35 @@
 */
 
 .hero_number .hero_number-background {
-    opacity: 0
+  opacity: 0;
 }
 
 .hero_number:hover .hero_number-text {
-    opacity: 0.6;
+  opacity: 0.6;
 }
 
 .hero_number:hover .hero_number-background {
-    opacity: 0.2;
+  opacity: 0.2;
 }
 
 .hero_number.is-active .hero_number-background {
-    opacity: 1;
+  opacity: 1;
 }
 
 .hero_number.is-active .hero_number-text {
-    opacity: 1;
+  opacity: 1;
 }
-
-
-
 
 /*
 ! button controls
 */
 
-
 .hero-canvas_c-button:hover {
-    opacity: 0.5;
+  opacity: 0.5;
 }
 
 .hero-canvas_c-button.is-active {
-    opacity: 1;
+  opacity: 1;
 }
 
 /*
@@ -43,45 +39,41 @@
 */
 
 .hero_move-reset-w:hover .hero_move-background {
-    opacity: 0.1;
+  opacity: 0.1;
 }
 
 .hero_move-reset-w:hover .hero_move-text {
-    opacity: 0.5;
+  opacity: 0.5;
 }
 
 .hero_move-top-w:hover .hero_move-background {
-    opacity: 0.1;
+  opacity: 0.1;
 }
 
 .hero_move-top-w:hover .hero_move-text {
-    opacity: 0.5;
+  opacity: 0.5;
 }
 
 .hero_move-left-w:hover .hero_move-background {
-    opacity: 0.1;
+  opacity: 0.1;
 }
 
 .hero_move-left-w:hover .hero_move-text {
-    opacity: 0.5;
+  opacity: 0.5;
 }
 
 .hero_move-right-w:hover .hero_move-background {
-    opacity: 0.1;
+  opacity: 0.1;
 }
 
 .hero_move-right-w:hover .hero_move-text {
-    opacity: 0.5;
+  opacity: 0.5;
 }
 
 .hero_move-bottom-w:hover .hero_move-background {
-    opacity: 0.1;
+  opacity: 0.1;
 }
 
 .hero_move-bottom-w:hover .hero_move-text {
-    opacity: 0.5;
+  opacity: 0.5;
 }
-
-
-
-
