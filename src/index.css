@@ -2,23 +2,23 @@
 ! Side Buttons
 */
 
-.hero_number .hero_number-background {
+.hero-singularity_number .hero-singularity_number-background {
   opacity: 0;
 }
 
-.hero_number:hover .hero_number-text {
+.hero-singularity_number:hover .hero-singularity_number-text {
   opacity: 0.6;
 }
 
-.hero_number:hover .hero_number-background {
+.hero-singularity_number:hover .hero-singularity_number-background {
   opacity: 0.2;
 }
 
-.hero_number.is-active .hero_number-background {
+.hero-singularity_number.is-active .hero-singularity_number-background {
   opacity: 1;
 }
 
-.hero_number.is-active .hero_number-text {
+.hero-singularity_number.is-active .hero-singularity_number-text {
   opacity: 1;
 }
 
@@ -26,11 +26,11 @@
 ! button controls
 */
 
-.hero-canvas_c-button:hover {
+.hero-singularity-canvas_c-button:hover {
   opacity: 0.5;
 }
 
-.hero-canvas_c-button.is-active {
+.hero-singularity-canvas_c-button.is-active {
   opacity: 1;
 }
 
@@ -38,42 +38,42 @@
 ! Side Move
 */
 
-.hero_move-reset-w:hover .hero_move-background {
+.hero-singularity_move-reset-w:hover .hero-singularity_move-background {
   opacity: 0.1;
 }
 
-.hero_move-reset-w:hover .hero_move-text {
+.hero-singularity_move-reset-w:hover .hero-singularity_move-text {
   opacity: 0.5;
 }
 
-.hero_move-top-w:hover .hero_move-background {
+.hero-singularity_move-top-w:hover .hero-singularity_move-background {
   opacity: 0.1;
 }
 
-.hero_move-top-w:hover .hero_move-text {
+.hero-singularity_move-top-w:hover .hero-singularity_move-text {
   opacity: 0.5;
 }
 
-.hero_move-left-w:hover .hero_move-background {
+.hero-singularity_move-left-w:hover .hero-singularity_move-background {
   opacity: 0.1;
 }
 
-.hero_move-left-w:hover .hero_move-text {
+.hero-singularity_move-left-w:hover .hero-singularity_move-text {
   opacity: 0.5;
 }
 
-.hero_move-right-w:hover .hero_move-background {
+.hero-singularity_move-right-w:hover .hero-singularity_move-background {
   opacity: 0.1;
 }
 
-.hero_move-right-w:hover .hero_move-text {
+.hero-singularity_move-right-w:hover .hero-singularity_move-text {
   opacity: 0.5;
 }
 
-.hero_move-bottom-w:hover .hero_move-background {
+.hero-singularity_move-bottom-w:hover .hero-singularity_move-background {
   opacity: 0.1;
 }
 
-.hero_move-bottom-w:hover .hero_move-text {
+.hero-singularity_move-bottom-w:hover .hero-singularity_move-text {
   opacity: 0.5;
 }
